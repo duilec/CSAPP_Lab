@@ -1,4 +1,4 @@
-/* Optimization Segregated list + Best fit + Address order has 85/100 */
+/* Optimization Segregated list + Best fit + Address order has 87/100 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
